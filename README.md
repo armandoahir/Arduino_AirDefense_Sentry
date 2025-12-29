@@ -6,7 +6,7 @@
 
 ## Overview
 This project implements the core logic of an autonomous sentry system. Using a radar motion sensor, it continuously monitors a defined area. Upon detecting movement, the system calculates the approximate location, rotates a servo-mounted platform to face the target, and triggers a simulated "engagement" sequence.
-### Future implementation will be Module OV7670 (cam from AZDelivery) for computer vision orientation
+**Future implementation will be Module OV7670 (cam from AZDelivery) for computer vision orientation**
 
 ## Hardware Components
 *   Arduino Uno / Mega / Nano
