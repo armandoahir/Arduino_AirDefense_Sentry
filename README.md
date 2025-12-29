@@ -1,4 +1,4 @@
-# Arduino_AirDefense_Sentry
+# Arduino_AirDefense_RealTime
 
 > **An Arduino-based autonomous sentry prototype featuring radar detection and automated engagement simulation.**
 
